@@ -1,4 +1,7 @@
-naver.com###cnsv_shbx
+! Title: Adguard_MyList
+! Author: Poland Ball
+! Homepage: https://github.com/testid920/Adguard_MyList
+! Description: Filters for blocking and removing annoying elements.
 naver.com##.column_left
 naver.com###themecast
 naver.com##._PM_timesquare_wrapper
