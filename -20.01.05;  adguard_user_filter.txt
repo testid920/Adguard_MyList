@@ -1,0 +1,172 @@
+﻿naver.com###cnsv_shbx
+naver.com##.column_left
+naver.com###themecast
+naver.com##._PM_timesquare_wrapper
+naver.com##.column_banner
+naver.com##.aside
+naver.com##.ah_list, .PM_CL_realtimeKeyword_list_base
+naver.com##.ah_item
+naver.com##.al_favorite
+naver.com##.al_jr
+naver.com##.al_happybean
+daum.net###shoppingBox
+daum.net##.cmain_tmp
+naver.com###PM_ID_ct > div.header:first-child > div.section_navbar:last-child > div.area_navigation:first-child > ul.an_l:first-child > li.an_item:nth-child(5) > a.an_a.mn_shopping > span.an_icon:first-child
+naver.com###PM_ID_ct > div.header:first-child > div.section_navbar:last-child > div.area_navigation:first-child > ul.an_l:first-child > li.an_item:nth-child(6) > a.an_a.mn_checkout > span.an_icon:first-child
+naver.com###PM_ID_ct > div.header:first-child > div.section_navbar:last-child > div.area_navigation:first-child > ul.an_l:first-child > li.an_item:last-child > a.an_a.mn_tvcast > span.an_icon:first-child
+ja.dict.naver.com##.Nlnb
+ja.dict.naver.com##.Ngnb
+ja.dict.naver.com##.top_btn
+ja.dict.naver.com###footer
+ja.dict.naver.com###u_skip > a:last-child > span
+ja.dict.naver.com###u_skip
+ja.dict.naver.com##.banner_opendict
+gall.dcinside.com##.comment_mandu
+google.com##A[href^="https://www.forbes.com/"]
+v.media.daum.net##.cp_view
+v.media.daum.net##.link_write
+v.media.daum.net##.copyright_view
+v.media.daum.net##.tooltip
+v.media.daum.net##.inner_realtime
+v.media.daum.net##.list_inside, .\#bottom, .\#inside
+wikia.com##.wds-global-navigation-wrapper
+wikia.com##.wds-global-footer
+wikia.com##.WikiaBarWrapper
+chan.sankakucomplex.com###news-ticker
+google.com##A[href^="https://www.solvusoft.com"]
+namu.wiki##.nav-control
+v.media.daum.net###DragSchLayer
+daum.net##.txt_pctop, .link_cafe
+daum.net###shoppingSlot
+v.media.daum.net##html>*
+chan.sankakucomplex.com###news-ticker > ul:first-child > li
+chan.sankakucomplex.com###news-ticker > ul:first-child
+exhentai.org##A[href="https://exhentai.org/g/1249129/12b4ed8da0/"] 
+google.com##A[href*="romsmania.com"]
+namu.wiki##.card, .recent-card
+ppomppu.co.kr###pp_ban_bbs
+google.com##G-SECTION-WITH-HEADER[data-hveid="CAYQAA"]
+google.com##A[href^="https://www.cheathappens.com"]
+news.v.daum.net##.cp_view
+news.v.daum.net###mAside
+news.v.daum.net##.recomm_ad, .hc_news_pc_mArticle_recommend_ad
+gall.dcinside.com###tit_no_adblock
+inven.co.kr###marketBottom
+google.com##[href="https://www.youtube.com/watch?v=Plb7sEaadHk"] *
+google.com##A[href="https://www.youtube.com/watch?v=lSjPTrWtFTA"] *
+google.com##A[href="https://www.youtube.com/watch?v=tY5uH-mUbXU"] *
+.agegate_text_container.btns > [href="https://store.steampowered.com/"]
+@@//activetect.net^$document
+podbbang.com###top_banner
+daum.net##.slide_favorsch
+pinterest.com##[data-test-id="giftWrap"]
+pinterest.com##DIV[data-test-id="fullPageSignupModal"]
+google.com##A[href^="http://www.9minecraft.net"] 
+pornhub.com##A[href^="/live/"]
+pornhub.com##.sectionWrapper.recommendedPornstarsWrapper
+pornhub.com##.sectionWrapper.recommendedCategoriesWrapper
+pornhub.com##.sectionWrapper.streamatesModelsContainer
+blog.naver.com##DIV#floating_area_header
+xn--kck2cc2e1dve.jp##IMG[src="images/test1.gif"]
+tvple.com##.bnp-ov-sticky-wrap
+adultdollmaster.blog74.fc2.com##iframe
+google.com##A[href^="https://romsmania.cc/"]
+google.com##A[href^="https://www.freeroms.com"]
+||s3.tradingview.com^
+||apis.piclick.me^
+||ad.tjtune.com^
+||s.tradingview.com^
+||nompakru.click^
+||riluaneth.com^$domain=igg-games.com,third-party
+@@//dcid.dcinside.com^$document
+gall.dcinside.com##.written_dccon[src="http://dcimg5.dcinside.com/dccon.php?no=62b5df2be09d3ca567b1c5bc12d46b394aa3b1058c6e4d0ca41648b65aec236ea288c89be6f2fd50f4be6d9532c950ddc5be3e747964609066ef5d89badf752f6149ca31f478"]
+gall.dcinside.com##.written_dccon[src="http://dcimg5.dcinside.com/dccon.php?no=62b5df2be09d3ca567b1c5bc12d46b394aa3b1058c6e4d0ca41648b65aec236ea288c89be6f2fd50f4be6d9532c950ddc5be3e747964609066ef5d89badf752f6148ca31f478"]
+funitoon01.com##IMG[src^="/banner/"]
+google.com###search #rso A[href^="https://www.pinterest.com"]
+gall.dcinside.com##.comment_dory.clean
+gall.dcinside.com##.ub-content.dory *
+brotoon.com###adModal
+brotoon.com##.modal-backdrop.fade.in
+wikihow.com##.donate
+mangashow.me##.view-comment
+mangashow.me##.comment-media 
+mangashow.me##.print-hide.well.text-center
+mangashow.me##.banner
+mangashow.me##.admin-notice
+mangashow.me##a[href^="/ad_click.php?"]
+cafe.naver.com##.banner_add.bottom
+signinssl.gmarket.co.kr##.thumb
+signinssl.gmarket.co.kr##.banner
+dpg.danawa.com##.float_view_nav
+mangashow.me##.noti-popup
+youtube.com##.yt-alert.yt-alert-default.yt-alert-info.playlist-cleared-of-deleted-videos-alert
+prod.danawa.com###mainAdReader
+prod.danawa.com###floatAdLayer
+namu.wiki##.navbar-wrapper
+namu.wiki##.wiki-edit-section
+namu.wiki##.btn.btn-secondary[href^="/discuss/"]
+namu.wiki##.btn.btn-secondary[href^="/edit/"]
+namu.wiki##.btn.btn-secondary[href^="/acl/"]
+@@//litepaste.com^$document
+namu.wiki##.wiki-link-external[href^="http://tvpot.daum.net/"]
+@@//www.academicasurveys.com^$document
+google.com##A[href="https://namu.wiki/w/%EB%94%94%EC%8B%9C%EC%9C%84%ED%82%A4/%EB%AC%B8%EC%A0%9C%EC%A0%90"]
+google.com##A[href="https://namu.wiki/w/%EB%94%94%EC%8B%9C%EC%9C%84%ED%82%A4"]
+gall.dcinside.com##.pop_bg.closure-lightpop
+gall.dcinside.com##.pop_wrap.type5.closure-lightpop
+@@//www.vfsglobal.ca^$document
+google.com##.BFJZOc
+fc2.com###fc2_bottom_bnr
+search.danawa.com###powerClickListArea
+search.danawa.com##.search_result.tour
+chan.sankakucomplex.com$$script
+fmkorea.com###fm_alert
+manamoa.net##.manga-bottom-navi
+gall.dcinside.com##.right_content
+smpeople.net##.fancybox-wrap
+smpeople.net###bxc
+smpeople.net###bxr
+smpeople.net###bxl
+smpeople.net##.left_side_banner
+google.com##.g:contains("neoanime.co.kr")
+google.com##.g:contains("windowsreport.com")
+google.com##.g:contains("1boon.daum.net")
+google.com##.g:contains("femiwiki.com")
+google.com##.g:contains("answers.microsoft.com'")
+google.com##.g:contains("tgd.kr")
+mysexgames.com##canvas
+namu.wiki###__layout > div > div:contains('오늘의 라이브')
+namu.wiki##footer > p
+quora.com##.modal_bg, .new_signup_dialog
+quora.com##.inner
+namu.wiki##script
+namu.wiki$$script
+namu.wiki##link
+||namu.wiki/*$$style
+*.tistory.com##script
+*.tistory.com##link
+*.tistory.com$$script
+*.tistory.com$$link
+kormedi.com###side
+kormedi.com##.sidebar
+@@//my.senecacollege.ca^$document
+@@//zonessso.zones.com^$document
+@@//myschedule.senecacollege.ca^$document
+@@//resoomer.com^$document
+smpeople.net###trip
+smpeople.net##.ada
+/layouts/xecenter/mappy/bu_right.png$domain=smpeople.net
+layouts/xecenter/mappy/bu_r.gif$domain=smpeople.net
+smpeople.net###body > div.side_banner:nth-child(2) > ul > div:nth-child(4)
+manamoa.net###bo_vc:nth-of-type(2)
+manamoa.net###mobile_nav > ul.clearfix > li:last-child > a
+manamoa.net##.alarm-box
+coursedrive.org##div:contains(Adblocker)
+coursedrive.org##div[style="z-index: 999999; background: rgba(0, 0, 0, 0.5); display: block;"]
+namu.wiki###app > div.app.senkawa-fixed-size.senkawa-fixed-1300 > ul:last-child
+ratemyprofessors.com##.Footer__StyledFooter-rgimce-0, .hjFHRi
+ratemyprofessors.com##.BeaconFabButtonFrame, .is-configDisplayLeft, .css-tqpfu4, .e1b5xbr10
+ratemyprofessors.com##.StickyLeaderboard__StyledStickyLeaderboard-sc-1smpoa4-0, .kNRuR
+manamoa.net##.ad-banner-widget
+coursehero.com##.qal_blocker_container, .stuck, .slidingUp
+coursehero.com##.ch-aaq-widget-tab
